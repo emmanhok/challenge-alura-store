@@ -107,7 +107,7 @@ En conclusión, la **Tienda 4** exhibe la **mayor debilidad financiera** y el **
 
 Para replicar este análisis:
 
-1.  **Clona este repositorio:** `git clone https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv`
+1.  **Clona este repositorio:** `git clone` [url del repo]
 2.  **Abre el archivo `.ipynb`** (cuaderno de Jupyter) en Google Colab.
 3.  **Ejecuta las celdas** de código en orden. Asegúrate de tener conexión a internet para que Pandas pueda cargar los datos desde las URLs proporcionadas.
 
